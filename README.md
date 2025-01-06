@@ -37,5 +37,3 @@ Open the software and adjust the settings to align with your trading preferences
 
 ### Step 7: Start Using the Software
 Ensure everything is working properly, and begin analyzing and trading on the Forex market.
-
-> **Important:** Make sure the installation and use of this software comply with the laws and regulations in your country.
